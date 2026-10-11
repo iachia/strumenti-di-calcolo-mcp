@@ -10,7 +10,7 @@ This repository holds only this description. The server is hosted by the office,
 
 | Tool | What it calculates |
 | --- | --- |
-| `imposte_acquisto_casa` | The taxes on buying real estate: a home or an outbuilding, land, an office, a shop or a warehouse, from a private seller or from a company, with and without first-home relief, including the taxes on a mortgage loan |
+| `imposte_acquisto_immobile` | The taxes on buying real estate: a home or an outbuilding, land, an office, a shop or a warehouse, from a private seller or from a company, with and without first-home relief, including the taxes on a mortgage loan |
 | `valore_catastale` | The cadastral value of a property from its cadastral income (rendita catastale) and, for an inheritance or a gift, of every asset on a cadastral record, buildings and land |
 | `usufrutto_nuda_proprieta` | The value of usufruct and bare ownership, by the age of the person who keeps the usufruct |
 | `quote_ereditarie` | Who inherits and in what shares when there is no will, and the share the law reserves to spouse, children and parents |
